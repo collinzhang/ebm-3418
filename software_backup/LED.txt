@@ -1,0 +1,27 @@
+7E 2E 13 0C 00 22 81 8F 7E  yellow 
+
+7E 2E 13 0C 00 20 93 AC 7E  yellow OFF
+
+7E 2E 13 0C 00 21 1A BD 7E  yellow on
+
+
+
+7E 2E 13 0C 00 30 12 BC 7E  Red OFF
+
+7E 2E 13 0C 00 31 9B AD 7E  Red ON
+
+
+
+7E 2E 13 0C 00 41 1C DE 7E  Green ON
+
+
+
+7E 2E 13 0C 00 00 91 8D 7E  All ON 1Sec
+
+
+
+7E 7E 7E 7E A5  All LED ON OFF
+
+7E 2E 13 24 00 64 32 32 32 78 C2 7E  Fanspeedy Full
+
+
